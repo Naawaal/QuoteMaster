@@ -1,0 +1,4 @@
+#Fri Feb 17 17:37:25 NPT 2023
+base.0=D\:\\GetX Project\\quotemaster\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
